@@ -3,6 +3,12 @@ Real-time accident monitoring and reporting.
 
 https://devpost.com/software/argus-dfgv04
 
+![alt text](title.jpg?raw=true "Title")
+![alt text](home.jpg?raw=true "Title")
+![alt text](detected.jpg?raw=true "Title")
+![alt text](accident.jpg?raw=true "Title")
+
+
 ## Inspiration
 Following the news of a Tesla Model 3 colliding with a crashed tow truck in Moscow, Telsa claimed that there was a problem with the software in regards to detecting accidents.
 
