@@ -4,8 +4,11 @@ Real-time accident monitoring and reporting.
 https://devpost.com/software/argus-dfgv04
 
 ![alt text](title.jpg?raw=true "Title")
+## The homescreen
 ![alt text](home.jpg?raw=true "Title")
+## An accident has been detected
 ![alt text](detected.jpg?raw=true "Title")
+## See details about the accident
 ![alt text](accident.jpg?raw=true "Title")
 
 
