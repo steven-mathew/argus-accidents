@@ -21,7 +21,7 @@ A web-app that uses object detection to monitor for accidents in CCTV cameras an
 ## How I built it
 - Uses TensorFlow's object detection model for accident "detection".
 - Google Maps API with custom interface. :0
-- Server set up in Node.js. ```npm install nodemon server/server.js``` To run (see dependencies in package.json... there are some python dependencies but I forgot): ```python crash_detection_model.py```
+- Server set up in Node.js. ```npm install nodemon server/server.js``` To run (see dependencies in package.json): ```python crash_detection_model.py```
 - Express.js because it makes things easier.
 - Socket.io used to update the client with accident details.
 - Twillio API to send SMS to the user at the moment of an accident.
